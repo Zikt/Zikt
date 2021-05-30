@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🌱 I’m currently learning about robotics, machine learning <a href="hhttps://github.com/Zikt/42_21_school/" target="_blank">@42</a>
+🌱 I’m currently learning about robotics, machine learning <a href="https://github.com/Zikt/42_21_school/" target="_blank"> @42 </a>
 and agile (technical) product development... Feel free to say hi!
 
-<a href="http://zikt.github.io/" target="_blank">Read my blog </a>
+<a href="http://zikt.github.io/" target="_blank"> Read my blog </a>
 
-<a href="https://t.me/Letsfuture" target="_blank">Follow my updates on my telegram channel</a>
+<a href="https://t.me/Letsfuture" target="_blank"> Follow my updates on my telegram channel </a>
 
 <!--
 **Zikt/Zikt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
