@@ -3,7 +3,7 @@
 🌱 I’m currently learning about robotics, machine learning <a href="https://github.com/Zikt/42_21_school/" target="_blank"> @42 </a>
 and agile (technical) product development... Feel free to say hi!
 
-<a href="http://zikt.github.io/" target="_blank"> Read my blog </a>
+[Read my blog](http://zikt.github.io/)
 
 <a href="https://t.me/Letsfuture" target="_blank"> Follow my updates on my telegram channel </a>
 
