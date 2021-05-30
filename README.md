@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about robotics, machine learning [@42](https://github.com/Zikt/42_21_school) and agile (technical) product development... Feel free to say hi!
+
+Read [my blog](http://zikt.github.io/)
+
+Follow my updates on [my telegram channel](https://t.me/Letsfuture)
+
 <!--
 **Zikt/Zikt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
