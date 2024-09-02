@@ -1,15 +1,16 @@
 ### Hi there 👋
 <p align="center">
+  
 🌱 I’m currently learning about Robotics, Neuroscience and AI
 
-Formerly student of <a href="https://github.com/Zikt/42_21_school/" target="_blank"> @42 </a>
-with an interest in PM and agile (technical) product development... Feel free to say hi!
+Formerly student of <a href="https://github.com/Zikt/42_21_school/" target="_blank"> </b> 42 School Kazan </a>
+with an interest in Startups, PM Agile (technical) product development... 
 
-I am open to technical internships, and discussing projects.
+Feel free to say hi!
 
 [Read my blog](http://zikt.github.io/)
 
-<a href="[Build3P](https://t.me/Build3P)" target="_blank"> Follow my updates on my telegram channel </a>
+[Build3P - Follow my updates on my telegram channel ](https://t.me/Build3P)
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=zikt&show_icons=true&count_private=true&hide=contribs&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zikt&layout=compact&theme=tokyonight&count_private=true)
